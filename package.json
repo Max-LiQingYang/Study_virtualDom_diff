@@ -1,0 +1,19 @@
+{
+  "name": "study_snabbdom",
+  "version": "1.0.0",
+  "description": "study snabbdom and diff ",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Max-LiQingYang/Study_virtualDom_diff.git"
+  },
+  "author": "Max Liqingyang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Max-LiQingYang/Study_virtualDom_diff/issues"
+  },
+  "homepage": "https://github.com/Max-LiQingYang/Study_virtualDom_diff#readme"
+}
